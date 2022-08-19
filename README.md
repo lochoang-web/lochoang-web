@@ -7,10 +7,11 @@ I live in Oregon State for over 25 years. I am attending Clark College as I purs
 
 ## Examples of Work
 <img src="https://github.com/lochoang-web/lochoang-web/blob/main/nursery.gif" width="512" />
-Used HTML and JavaScript, along with API to develop a functional weather website to predict the current weather and 5 days forcast.
+Used Html skills to develop a functional nursery website.
 &nbsp;
-
-
+&nbsp;
+<img src="https://github.com/lochoang-web/lochoang-web/blob/main/weather-1.gif width="512" />
+Used HTML and JavaScript, along with API to develop a functional weather website to predict the current weather and 5 days forcast.
 
 - 🔭 I’m currently working on this page. 
 
