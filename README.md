@@ -6,8 +6,11 @@ I live in Oregon State for over 25 years. I am attending Clark College as I purs
 💻  JS / HTML / CSS/WordPress/Python/C#
 
 ## Examples of Work
+<img src="https://github.com/lochoang-web/lochoang-web/blob/main/nursery.gif" width="512" />
 Used HTML and JavaScript, along with API to develop a functional weather website to predict the current weather and 5 days forcast.
-<img src="https://github.com/lochoang-web/lochoang-web/blob/main/nursery.gif" width="256" />
+&nbsp;
+
+
 
 - 🔭 I’m currently working on this page. 
 
