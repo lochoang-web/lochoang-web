@@ -2,10 +2,10 @@
 ### This is Loc (Leon) Hoang!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lochoang-web)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/locpdx2@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/loc-leon-hoang-979b6815/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:loc.hoang@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Web Development degree at Clark College of Washington!  
+Welcome to my Github page! I am Leon and I am currently finishing my Web Development degree at Clark College of Washington!  
 I had over 7 years of experience in QA Engineer and Desktop Support. My hope is to be able find a web development , QA position where I can work remotely
 
 
