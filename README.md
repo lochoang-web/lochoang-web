@@ -32,5 +32,11 @@ I had over 7 years of experience in QA Engineer and Desktop Support. My hope is 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
 	
+#### :computer: Projects I worked on: 
+<p>
+	<img align="center" alt="img" src="https://github.com/lochoang-web/lochoang-web/blob/main/20190424_130551.jpg"
+ width="50%" height="auto" />
+
+	
 	
 
