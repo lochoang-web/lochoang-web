@@ -25,17 +25,30 @@ I had over 7 years of experience in QA Engineer and Desktop Support. My hope is 
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lochoang-web&show_icons=true&hide_border=true" />
+	&nbsp;
+  &nbsp;
+   &nbsp;
+   &nbsp;
+  &nbsp;
+   &nbsp;
+   &nbsp;
+  &nbsp;
+   &nbsp;
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
-	
+  &nbsp;
+   &nbsp;
+  &nbsp;
+   &nbsp;
+ 
 #### :computer: Projects I worked on: 
 <p>
-	<img align="center" alt="img" src="https://github.com/lochoang-web/lochoang-web/blob/main/20190424_130551.jpg"
- width="50%" height="auto" />
+	<img align="center" alt="img" src="https://github.com/lochoang-web/lochoang-web/blob/main/nursery.jpg"
+ width="80%" height="auto" />
 
 	
 	
