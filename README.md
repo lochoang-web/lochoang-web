@@ -53,6 +53,13 @@ I had over 7 years of experience in QA Engineer and Desktop Support. My hope is 
    &nbsp;
  <img align="center" alt="img" src="https://github.com/lochoang-web/lochoang-web/blob/main/weather%20map.jpg"
  width="100%" height="auto" />
+&nbsp;
+&nbsp;
+&nbsp;
+:computer:Work History:
+	<img align="center" alt="img" src="https://github.com/lochoang-web/lochoang-web/blob/main/Work%20history.jpg"
+ width="100%" height="auto" />
+	
 
 	
 	
