@@ -9,9 +9,8 @@ Welcome to my Github page! I am Leon and I am currently finishing my Web Develop
 I had over 7 years of experience in QA Engineer and Desktop Support. My hope is to be able find a web development , QA position where I can work remotely
 
 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-<img align="right" alt="img" src="https://github.com/lochoang-web/lochoang-web/blob/main/20190424_130551.jpg"
- width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
