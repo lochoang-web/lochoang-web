@@ -13,7 +13,7 @@ With Dedicated and skilled web developer with experience in front-end developmen
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Web Development Degree  
+- Associate in applied technology - Web Development
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
