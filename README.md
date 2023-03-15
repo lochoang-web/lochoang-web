@@ -1,12 +1,11 @@
 ### Hi there 👋 
-### This is Loc (Leon) Hoang!
+### This is Leon Hoang!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lochoang-web)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/loc-leon-hoang-979b6815/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:loc.hoang@gmail.com)
 
-Welcome to my Github page! I am Leon and I am currently finishing my Web Development degree at Clark College of Washington!  
-I had over 7 years of experience in QA Engineer and Desktop Support. My hope is to be able find a web development , QA position where I can work remotely
+With Dedicated and skilled web developer with experience in front-end development and design. Web development skills complemented by an extensive IT infrastructure background, which includes QA and Technical Support.
 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
